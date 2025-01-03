@@ -366,6 +366,11 @@ nav ul li a:hover {
     font-size: 30px;
 }
 
+.showcase .fa-envelope {
+    color: black;
+    font-size: 25px;
+}
+
 /* ABOUT */
 .text-play .text {
     display: flex;
